@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Guilherme 👋
 
-<!--
-**GuilhermeBassetoa/GuilhermeBassetoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Ciência da Computação no Mackenzie** formatura prevista: 2030, com foco em Cibersegurança: da perspectiva ofensiva (pentest em aplicações web) à defensiva (monitoramento e detecção).
 
-Here are some ideas to get you started:
+Estou **buscando estágio em Segurança da Informação** em São Paulo (híbrido ou remoto).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔎 No que estou trabalhando agora
+- Projeto atual: Scanner de Portas em Python.
+
+## 🛠️ Ferramentas e tecnologias
+Só as que domino:
+- **Linguagens:** Python
+- **Sistemas e redes:** Linux, TCP/IP, DNS, HTTP
+- **Segurança:** [Nmap], [Wireshark], [Burp Suite], [Kali Linux]
+
+## 🎓 Formação e certificações
+- Bacharelado em Ciência da Computação, Universidade Presbiteriana Mackenzie
+- Pentest: explorando vulnerabilidades em aplicações web (Alura, 2026)
+- Cibersegurança: fundamentos e práticas de redes (Alura)
+- Cambridge English C1 Advanced (2025)
+
+## ⚖️ Ética
+Todos os testes de segurança que publico são feitos em **ambientes autorizados** (laboratórios próprios, CTFs e plataformas de prática).
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/guilherme-basseto-893351403/
+- E-mail: guilherme.bassetoa@gmail.com
